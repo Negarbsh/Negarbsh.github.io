@@ -12,27 +12,30 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering
-  * Sharif University of Technology, October 2020 - Persent
+    * October 2020 - Present
+    * Sharif University of Technology
+    * Tehran, Iran
 
 Experience
 ======
 
 * Research Assistant
   * July 2024 - Present
-  * Max Planck Institute of Informatics (MPII)
+  * Max Planck Institute of Informatics ([MPII](https://www.mpi-inf.mpg.de/))
   * Saarbrücken, Saarland, Germany · On-site
   * Supervisor: Nithin Varma
 
 * Research Assistant
   * July 2023 - September 2023
-  * Hong Kong University of Science and Technology (HKUST)
+  * Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk))
   * Hong Kong SAR · On-site
   * Supervisor: Ke Yi
 
 * Expert Backend Developer
     * Feb 2022 - Feb 2023
-    * Tapsi
-    * Worked on a project named “Tapsi Pack”, a tool for delivering packages in scheduled time
+    * [Tapsi](https://www.linkedin.com/company/tapsi/about/), an online transportation platform
+    * Tehran, Iran · Full time
+    * Worked on a project named **Tapsi Pack**, a tool for delivering packages in scheduled time
 
 * Math Olympiad Instructor
     * July 2020 - September 2022
