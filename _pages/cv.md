@@ -11,28 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Engineering
+  * Sharif University of Technology, October 2020 - Persent
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, July 22024 - Present
+  * Max Planck Institute of Informatics (MPII)
+  * Saarbrücken, Saarland, Germany · On-site
+  * Supervisor: Nithin Varma
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant, July 2023 - Septermber 2023
+  * Hong Kong University of Secience and Technology (HKUST)
+  * Hong Kong SAR · On-site
+  * Supervisor: Ke Yi
+
+* Expert Backent Developer, Feb 2022 - Feb 2023
+  * Tapsi
+  * Worked on a project named “Tapsi Pack”, a tool for delivering packages in scheduled time
+
+* Math Olympiad Instructor, July 2020 - September 2022
+  * Salam Highschools olympiad club
+  * Tought Algebra and Combinatorics to younger highschool students volunteering for Iranian math olympiads competition
+
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
