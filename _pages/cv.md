@@ -19,17 +19,17 @@ Education
 Experience
 ======
 
-* Research Assistant
-  * July 2024 - Present
+* Research Intern
+  * July 2024 - September 2024
   * Max Planck Institute of Informatics ([MPII](https://www.mpi-inf.mpg.de/))
   * Saarbrücken, Saarland, Germany · On-site
-  * Supervisor: Nithin Varma
+  * Supervisor: Dr. Nithin Varma
 
-* Research Assistant
+* Research Intern
   * July 2023 - September 2023
   * Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk))
   * Hong Kong SAR · On-site
-  * Supervisor: Ke Yi
+  * Supervisor: Prof. Ke Yi
 
 * Expert Backend Developer
     * Feb 2022 - Feb 2023
