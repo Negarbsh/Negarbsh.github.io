@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,31 +15,67 @@ Education
     * October 2020 - Present
     * Sharif University of Technology
     * Tehran, Iran
+    * Relevant Coursework: [List relevant courses]
+    * Honors and Awards: [List any honors or awards]
 
 Experience
 ======
 
+* Research Assistant 
+  * February 2024 - Present
+  * Supervisors: Dr. Masoud Seddighin, Golnoosh Shahkarami
+  * **Distortion of Multi-Winner Elections on the Line Metric: The Polar Comparison Rule** ([Under Review Paper](https://arxiv.org/abs/2411.13720))
+  * Proposed a new voting rule for multi-winner elections based on preferences on the line metric.
+  * Established new upper and lower bounds on distortion for general multi-winner elections on the line.
+  * Achieved tight bounds for elections with small committee sizes.
+
 * Research Intern
   * July 2024 - September 2024
   * Max Planck Institute of Informatics ([MPII](https://www.mpi-inf.mpg.de/))
-  * Saarbrücken, Saarland, Germany · On-site
+  * Saarbrücken, Saarland, Germany · On-site Summer Internship
   * Supervisor: Dr. Nithin Varma
+  * **Finding Approximation Algorithms for Explainable Clustering**
+  * Studied explainable clustering and nearest neighbors problem.
+  * Proposed a deterministic algorithm with tight lower bound on price of explainability.
+  * De-randomized an existing randomized clustering algorithm.
 
 * Research Intern
   * July 2023 - September 2023
   * Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk))
-  * Hong Kong SAR · On-site
-  * Supervisor: Prof. Ke Yi
+  * Hong Kong SAR · On-site Summer Internship
+  * Supervisors: Prof. Ke Yi, Dr. Xiao Hu
+  * **Output-Sensitive Algorithm for Triangle Listing in Graphs in Massively Parallel Computations (MPC) Model**
+  * Adapted an algorithm for listing triangles in RAM model using fast matrix multiplication.
+
+* Volunteer Teaching Assistant
+  * Fall 2021 - Spring 2024
+  * Sharif University of Technology 
+  * Designed and graded exams and assignments in several courses, including _Discrete Structures_, _Data Structures and Algorithms_, _Probability and Statistics_, _Database Design_, etc.
+  * Led a team of TAs and mentors as Head Teaching Assistant in _Design of Algorithms_ and _Discrete Structures_.
 
 * Expert Backend Developer
-    * Feb 2022 - Feb 2023
+    * February 2022 - February 2023
     * [Tapsi](https://www.linkedin.com/company/tapsi/about/), an online transportation platform
     * Tehran, Iran · Full time
-    * Worked on a project named _Tapsi Pack_, a tool for delivering packages in scheduled time
+    * Worked on a project named _Tapsi Pack_, a tool for scheduled goods delivery.
+    * Contributed to the design and implementation of the project, and successfully launching the product in beta release and the final version. Utilized microservice architecture, Spring Boot, and reactive programming paradigms.
 
 * Math Olympiad Instructor
     * July 2020 - September 2022
-    * Salam Highschool olympiad club
-    * Taught Algebra and Combinatorics to younger highschool students volunteering for Iranian math olympiads competition
+    * Salam Highschool Olympiad Club
+    * Taught Algebra and Combinatorics to younger high school students volunteering for Math Olympiads competitions.
 
-  
+* Young Scholars Club Member
+  * 2020 - 2022 
+  * Member of problem selection and grading committees of several Iranian Mathematical Olympiad contests, including the Iranian National Mathematical Competition and Team Selection Tests.
+
+Skills
+======
+* Tools: LaTeX, Spring Boot Framework, MongoDB, PostgreSQL, Git
+* Programming Languages: C, Python, Java, Kotlin
+* Miscellaneous: Piano, Tombak (Persian musical instrument), Mountain Climbing
+
+Languages
+======
+* Persian: Native Proficiency
+* English: Full Professional Proficiency, Score in TOEFL (iBT): 109/120 [R: 28, L:28, S:25, W:28]
