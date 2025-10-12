@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Negar Babashah "
 #  pronouns         : # example: "she/her"
-  bio              : "CE student"
-  location         : "Tehran, Iran"
-  employer         : "Sharif University"
+  bio              : "CS student"
+  location         : "Austria"
+  employer         : "Institute of Science and Technology Austira (ISTA)"
   uri              : # URL
   email            : "babashahnegar@gmail.com"
 

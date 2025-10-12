@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering
-    * October 2020 - Present
+* PhD in Computer Science
+  * September 2025 - present
+  * Institute of Science and Technology Austria (ISTA)
+
+* B.Sc in Computer Engineering
+    * October 2020 - July 2025
     * Sharif University of Technology
     * Tehran, Iran
 
@@ -24,12 +28,12 @@ Experience
 ======
 
 * Research Experience 
-  * February 2024 - Present
+  * February 2024 - July 2025
   * Supervisors: Dr. Masoud Seddighin, Golnoosh Shahkarami
-  * **Distortion of Multi-Winner Elections on the Line Metric: The Polar Comparison Rule** ([arXiv](https://arxiv.org/abs/2411.13720))
+  * **Distortion of Multi-Winner Elections on the Line Metric: The Polar Comparison Rule** ([arXiv](https://arxiv.org/abs/2411.13720), [SAGT'25](https://link.springer.com/chapter/10.1007/978-3-032-03639-1_24))
   * Proposed a new voting rule for multi-winner elections based on preferences on the line metric.
   * Established new upper and lower bounds on distortion for general multi-winner elections on the line.
-  * Achieved tight bounds for elections with small committee sizes.
+  
 
 * Research Intern
   * July 2024 - September 2024

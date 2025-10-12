@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Negar Babashah, an undergraduate student in Computer Engineering at Sharif University of Technology.
+Hi! I'm Negar Babashah, a PhD student in Computer Science at Institute of Science and Technology Austria (ISTA).
 
-I'm generally interested in Theoretical Aspects of Computer Science. More specifically, I'm interested in Algorithms, Algorithmic Game Theory, Social Choice, Distributed Algorithms, and Graph Theory. 
+I'm generally interested in Theoretical Aspects of Computer Science. More specifically, I'm interested in Algorithms, Algorithmic Game Theory, and Graph Theory. 
